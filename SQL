@@ -1,0 +1,3 @@
+SELECT DISTINCT ProductName, CategoryName 
+FROM Products 
+ORDER BY ProductName;
